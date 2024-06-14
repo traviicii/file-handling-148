@@ -1,0 +1,5 @@
+Overwriting previous data
+Adding to my file with "a" mode!
+Adding something totally new
+Adding something totally new
+Adding something totally new
